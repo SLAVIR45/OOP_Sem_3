@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/Figure_class/Circle.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/Figure_class/Rectangle.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/Figure_class/Square.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/Figure_class/Triangle.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/Interface/Perimeter_сalculation.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/User_console/Console.java" charset="windows-1251" />
+  </component>
+</project>
